@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "dlgs-81-08-glossario: glossario del D.Lgs 81/08 (Testo Unico Sicurezza Lavoro)"
+abstract: "Glossario JSON con oltre 200 voci del D.Lgs 9 aprile 2008, n. 81 e della normativa collegata: figure, documenti, normativa, rischi e concetti chiave, con definizioni sintetiche, paragrafi di approfondimento e riferimenti incrociati."
+authors:
+  - family-names: "Tutor Sicurezza"
+    given-names: "123Formazione"
+    website: "https://123formazione.com"
+repository-code: "https://github.com/tutor-sicurezza/dlgs-81-08-glossario"
+url: "https://123formazione.com"
+license: "MIT AND CC-BY-SA-4.0"
+date-released: "2026-06-20"
+version: "1.0.0"
+keywords:
+  - "italy"
+  - "italian-data"
+  - "dlgs-81-08"
+  - "glossary"
+  - "terminology"
+  - "compliance"
+  - "occupational-safety"
+  - "legal-tech"
+  - "open-data"

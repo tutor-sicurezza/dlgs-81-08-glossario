@@ -2,6 +2,9 @@
 
 [![License: MIT + CC BY-SA 4.0](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY--SA%204.0-blue.svg)](./LICENSE)
 [![entries](https://img.shields.io/badge/voci-218-green.svg)](./data/glossario.json)
+[![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/dlgs-81-08-glossario)](https://github.com/tutor-sicurezza/dlgs-81-08-glossario/releases)
+[![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/dlgs-81-08-glossario?style=social)](https://github.com/tutor-sicurezza/dlgs-81-08-glossario/stargazers)
+[![CI](https://github.com/tutor-sicurezza/dlgs-81-08-glossario/actions/workflows/ci.yml/badge.svg)](https://github.com/tutor-sicurezza/dlgs-81-08-glossario/actions/workflows/ci.yml)
 
 Glossario JSON dei termini chiave del **D.Lgs 9 aprile 2008, n. 81** (Testo Unico Sicurezza Lavoro) e della normativa collegata: **218 voci** suddivise in 5 categorie (Figure, Documenti, Normativa, Rischi, Concetti), ciascuna con definizione sintetica, paragrafi di approfondimento e riferimenti incrociati.
 
