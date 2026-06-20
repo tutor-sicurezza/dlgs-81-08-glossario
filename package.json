@@ -1,0 +1,30 @@
+{
+  "name": "dlgs-81-08-glossario",
+  "version": "1.0.0",
+  "description": "Glossario JSON dei termini chiave del D.Lgs 81/08 (sicurezza sul lavoro italiana): 200+ definizioni con riferimenti normativi.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "data/",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "dlgs-81-08",
+    "sicurezza-lavoro",
+    "glossario",
+    "italia",
+    "rspp",
+    "dvr",
+    "haccp",
+    "compliance"
+  ],
+  "license": "MIT",
+  "author": "tutor-sicurezza",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutor-sicurezza/dlgs-81-08-glossario"
+  }
+}
