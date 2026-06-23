@@ -1,0 +1,46 @@
+{
+  "title": "D.Lgs 81/08 Glossario — definizioni Testo Unico Sicurezza Lavoro",
+  "description": "Glossario strutturato dei termini tecnici e giuridici utilizzati nel D.Lgs 9 aprile 2008 n. 81 (Testo Unico Sicurezza Lavoro). Include definizioni ufficiali da art. 2 e successivi articoli, riferimenti normativi puntuali, traduzioni operative per uso didattico e applicativo. Formato JSON e libreria di consultazione.",
+  "upload_type": "dataset",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "dlgs-81-08",
+    "sicurezza-lavoro",
+    "glossario",
+    "testo-unico",
+    "definizioni",
+    "compliance",
+    "open-data"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/dlgs-81-08-glossario",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "D.Lgs 9 aprile 2008 n. 81 — Testo Unico Sicurezza Lavoro, art. 2 (definizioni)",
+    "D.Lgs 3 agosto 2009 n. 106 — Disposizioni integrative e correttive al D.Lgs 81/08"
+  ],
+  "publication_date": "2026-06-23"
+}
